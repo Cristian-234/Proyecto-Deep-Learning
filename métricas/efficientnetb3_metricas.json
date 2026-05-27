@@ -1,0 +1,16 @@
+{
+  "arquitectura": "EfficientNetB3",
+  "pesos_base": "ImageNet",
+  "val_accuracy": 0.995847225189209,
+  "val_loss": 0.016583556309342384,
+  "epocas_entrenadas": 20,
+  "macro_avg_precision": 0.9948890912849075,
+  "macro_avg_recall": 0.9940114887644939,
+  "macro_avg_f1": 0.994368828571627,
+  "weighted_avg_f1": 0.9958470842933687,
+  "auc_macro": 0.9999802838280535,
+  "auc_micro": 0.9999878366077259,
+  "num_clases": 39,
+  "img_size": 300,
+  "parametros_totales": 11193174
+}

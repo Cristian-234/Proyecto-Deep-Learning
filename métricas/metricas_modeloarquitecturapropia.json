@@ -1,0 +1,15 @@
+{
+    "arquitectura": "AgroVisionNet-Lite",
+    "pesos_base": "ImageNet",
+    "val_accuracy": 0.924929678440094,
+    "val_loss": 0.24804136157035828,
+    "macro_avg_precision": 0.915667925878572,
+    "macro_avg_recall": 0.9164242166980427,
+    "macro_avg_f1": 0.9104003640579937,
+    "weighted_avg_f1": 0.9245388636425887,
+    "auc_macro": 0.9991024738717325,
+    "auc_micro": 0.9992646942957275,
+    "num_clases": 38,
+    "img_size": 224,
+    "parametros_totales": 2960073
+}

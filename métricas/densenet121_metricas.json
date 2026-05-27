@@ -1,0 +1,16 @@
+{
+  "arquitectura": "DenseNet121",
+  "pesos_base": "ImageNet",
+  "val_accuracy": 0.9884445071220398,
+  "val_loss": 0.10417458415031433,
+  "epocas_entrenadas": 20,
+  "macro_avg_precision": 0.9869693105665723,
+  "macro_avg_recall": 0.9824935152028615,
+  "macro_avg_f1": 0.984491946100656,
+  "weighted_avg_f1": 0.9884384400806322,
+  "auc_macro": 0.9999555251564081,
+  "auc_micro": 0.9999715068680834,
+  "num_clases": 39,
+  "img_size": 224,
+  "parametros_totales": 7314023
+}

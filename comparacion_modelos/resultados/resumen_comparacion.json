@@ -1,0 +1,38 @@
+{
+  "mejor_modelo": "EfficientNetB3",
+  "score_compuesto": 0.99582,
+  "val_accuracy": 0.995847225189209,
+  "macro_f1": 0.994368828571627,
+  "ranking": [
+    {
+      "modelo": "EfficientNetB3",
+      "val_accuracy": 0.995847225189209,
+      "macro_f1": 0.994368828571627,
+      "score_compuesto": 0.99582
+    },
+    {
+      "modelo": "DenseNet121",
+      "val_accuracy": 0.9884445071220398,
+      "macro_f1": 0.984491946100656,
+      "score_compuesto": 0.98841
+    },
+    {
+      "modelo": "AgroVisionNet-Lite",
+      "val_accuracy": 0.924929678440094,
+      "macro_f1": 0.9104003640579937,
+      "score_compuesto": 0.92791
+    },
+    {
+      "modelo": "ResNet50V2",
+      "val_accuracy": 0.8075679559334211,
+      "macro_f1": 0.7485888601118439,
+      "score_compuesto": 0.80757
+    },
+    {
+      "modelo": "MobileNetV2",
+      "val_accuracy": 0.8058915099988025,
+      "macro_f1": 0.7515599501173207,
+      "score_compuesto": 0.80487
+    }
+  ]
+}

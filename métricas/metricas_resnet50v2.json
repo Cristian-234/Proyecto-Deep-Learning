@@ -1,0 +1,15 @@
+{
+    "arquitectura": "ResNet50V2",
+    "pesos_base": "ImageNet",
+    "val_accuracy": 0.7232666611671448,
+    "val_loss": 1.068596363067627,
+    "macro_avg_precision": 0.8112855895188722,
+    "macro_avg_recall": 0.6581269786708293,
+    "macro_avg_f1": 0.6552096423176502,
+    "weighted_avg_f1": 0.7265127242612364,
+    "auc_macro": 0.9857361674815488,
+    "auc_micro": 0.9807837413233945,
+    "num_clases": 39,
+    "img_size": 224,
+    "parametros_totales": 24758311
+}
